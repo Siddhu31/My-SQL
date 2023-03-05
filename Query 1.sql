@@ -1,0 +1,1 @@
+select count(Name) from salespeople where Name like 'A%';
